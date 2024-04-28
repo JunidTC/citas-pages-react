@@ -140,4 +140,3 @@ const Formulario = ({pacientes, setPacientes}) => {
 }
 
 export default Formulario;
-
